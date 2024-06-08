@@ -37,9 +37,3 @@ def recognize_speech():
         winsound.Beep(400, 200)
 # Вызов функции распознавания речи
 recognize_speech()
-
-
-
-
-
-
